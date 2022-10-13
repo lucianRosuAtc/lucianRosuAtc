@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Lucian Rosu, I'm a Junior Front-End Developer based in Exeter, UK.
 I developed my skills at Scrimba and the University of Leeds, I am a creative and energetic developer who thrives in a collaborative environment.
 
-### About me: 
+### My Goal: 
 
 I am exploring opportunities to develop my programming skills. 
 I am now looking for a Junior or Internship position in a mission-driven company to further develop my skills while contributing to a production-level code base. 
