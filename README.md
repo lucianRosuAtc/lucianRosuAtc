@@ -23,7 +23,6 @@ I am exploring opportunities to develop my programming skills.
 I am now looking for a Junior or Internship position in a mission-driven company to further develop my skills while contributing to a production-level code base. 
 I look forward to hearing from you.
 
-
 ### Portfolio:
 
 https://portofolio-lucian-rosu.netlify.app/
@@ -31,7 +30,10 @@ https://portofolio-lucian-rosu.netlify.app/
 ### Contact:
 
 https://www.linkedin.com/in/lucian-rosu-atc/
+
 https://github.com/lucianRosuAtc
+
 lucian.rosu.atc@gmail.com
+
 07505709297
 
