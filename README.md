@@ -21,7 +21,6 @@ I'm Lucian Rosu, I'm a Junior Front-End Developer based in Exeter, UK. I develop
 
 I am exploring opportunities to develop my programming skills. 
 I am now looking for a Junior or Internship position in a mission-driven company to further develop my skills while contributing to a production-level code base. 
-I look forward to hearing from you.
 
 ### Portfolio:
 
