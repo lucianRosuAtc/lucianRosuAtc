@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Lucian Rosu, I'm a Junior Front-End Developer based in Exeter, UK. I developed my skills at Scrimba and the University of Leeds, I am a creative and energetic developer who thrives in a collaborative environment.
+I'm Lucian Rosu, I'm a Junior Front-End Developer based in Exeter, UK.
+I developed my skills at Scrimba and the University of Leeds, I am a creative and energetic developer who thrives in a collaborative environment.
 
 ### My Story: 
 
@@ -26,13 +27,4 @@ I am now looking for a Junior or Internship position in a mission-driven company
 
 https://portofolio-lucian-rosu.netlify.app/
 
-### Contact:
-
-https://www.linkedin.com/in/lucian-rosu-atc/
-
-https://github.com/lucianRosuAtc
-
-lucian.rosu.atc@gmail.com
-
-07505709297
 
