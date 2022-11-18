@@ -22,7 +22,7 @@ Having developed my skills at Scrimba and the University of Leeds, I am a creati
 ### My Goal: 
 
 I am exploring opportunities to develop my programming skills. 
-I am now looking for a Junior or Internship position in a mission-driven company to further develop my skills while contributing to a production-level code base. 
+I am now looking for a Junior or Associate position in a mission-driven company to further develop my skills while contributing to a production-level code base. 
 
 ### Portfolio:
 
