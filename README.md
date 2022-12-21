@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Lucian Rosu, I'm a junior front-end developer based in Exeter, UK. I developed my skills at Scrimba(an 84-hour course with hundreds of challenges), I am a creative and energetic developer who thrives in a collaborative environment.
+Hi, I'm Lucian Rosu, I'm a junior front-end developer based in Exeter, UK. I developed my skills at Scrimba ( an 84-hour course with hundreds of challenges ), I am a creative and energetic developer who thrives in a collaborative environment.
 
 ### My Goal: 
 
