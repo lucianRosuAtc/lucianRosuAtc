@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Lucian Rosu, I'm a junior front-end developer based in Exeter, UK. I am a creative and energetic developer who thrives in a collaborative environment.
+Hi, I'm Lucian Rosu, a Front-End Developer based out of Exeter, UK. I am a creative and energetic developer who thrives in a collaborative environment. I love a challenge and approach problems with a results-driven mindset to create engaging user experiences. If anyone is hiring, has contacts, or knows of any positions available, please let me know!
 
 ### My Goal: 
 
