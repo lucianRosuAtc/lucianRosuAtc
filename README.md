@@ -25,6 +25,6 @@ I am now looking for a Junior or Associate position in a mission-driven company 
 
 ### Portfolio:
 
-https://portfolio-lucian-rosu.netlify.app/
+
 
 
